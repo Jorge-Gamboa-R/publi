@@ -3,7 +3,7 @@ trabajo final bases de datos 2
 
 paso 1
 intalar xampp
-intalar mysql  - workbench
+intalar mysql  - workbench;
 instalacion de PHP
 
 paso 2
